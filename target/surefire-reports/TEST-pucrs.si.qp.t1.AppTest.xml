@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="4" failures="0" name="pucrs.si.qp.t1.AppTest" time="0.004" errors="0" skipped="0">
+<testsuite tests="13" failures="0" name="pucrs.si.qp.t1.AppTest" time="0.003" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="java.vm.version" value="11.0.7+8-LTS"/>
@@ -26,7 +26,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 10"/>
-    <property name="classworlds.conf" value="C:\Users\Vinicius\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf4253405791296450429.tmp"/>
+    <property name="classworlds.conf" value="C:\Users\Vinicius\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf1053976878176606656.tmp"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
     <property name="java.library.path" value="C:\Program Files\Java\jdk-11.0.7\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre1.8.0_241/bin/server;C:/Program Files/Java/jre1.8.0_241/bin;C:/Program Files/Java/jre1.8.0_241/lib/amd64;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Razer\ChromaBroadcast\bin;C:\Program Files\Razer\ChromaBroadcast\bin;c:\program files (x86)\razer\chromabroadcast\bin;c:\program files\razer\chromabroadcast\bin;c:\program files (x86)\razer chroma sdk\bin;c:\program files\razer chroma sdk\bin;c:\windows\system32;c:\windows;c:\windows\system32\wbem;c:\windows\system32\windowspowershell\v1.0\;c:\windows\system32\openssh\;c:\program files\nvidia corporation\nvidia nvdlisr;c:\users\usuario\appdata\local\microsoft\windowsapps;c:\program files\git\cmd;c:\users\vinicius\appdata\local\microsoft\windowsapps;C:\Windows\system32;C:\Windows;C:\Windows\system32\wbem;C:\Windows\system32\windowspowershell\v1.0\;C:\Windows\system32\openssh\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Git\cmd;C:\Users\Vinicius\AppData\Local\Programs\Python\Python38\Scripts\;C:\Users\Vinicius\AppData\Local\Programs\Python\Python38\;C:\Users\Vinicius\AppData\Local\Microsoft\WindowsApps;C:\Users\Vinicius\AppData\Local\atom\bin;C:\Users\Vinicius\Desktop\eclipse;;."/>
     <property name="jdk.debug" value="release"/>
@@ -61,8 +61,17 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="pucrs.si.qp.t1.AppTest" name="testEquilatero" time="0.004"/>
+  <testcase classname="pucrs.si.qp.t1.AppTest" name="testEquilatero" time="0.003"/>
   <testcase classname="pucrs.si.qp.t1.AppTest" name="testEscaleno" time="0"/>
-  <testcase classname="pucrs.si.qp.t1.AppTest" name="testInvalido" time="0"/>
+  <testcase classname="pucrs.si.qp.t1.AppTest" name="testLinha" time="0"/>
+  <testcase classname="pucrs.si.qp.t1.AppTest" name="testTodosZero" time="0"/>
+  <testcase classname="pucrs.si.qp.t1.AppTest" name="testValorZero" time="0"/>
+  <testcase classname="pucrs.si.qp.t1.AppTest" name="testTrianguloInvalido" time="0"/>
+  <testcase classname="pucrs.si.qp.t1.AppTest" name="testVariantesDeNove" time="0"/>
+  <testcase classname="pucrs.si.qp.t1.AppTest" name="testIsosceles2" time="0"/>
+  <testcase classname="pucrs.si.qp.t1.AppTest" name="testValorNegativo" time="0"/>
   <testcase classname="pucrs.si.qp.t1.AppTest" name="testIsosceles" time="0"/>
+  <testcase classname="pucrs.si.qp.t1.AppTest" name="testVarianteDeSete" time="0"/>
+  <testcase classname="pucrs.si.qp.t1.AppTest" name="testVarianteDeTres" time="0"/>
+  <testcase classname="pucrs.si.qp.t1.AppTest" name="testLinhaLonga" time="0"/>
 </testsuite>
